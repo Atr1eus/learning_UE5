@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A57A690E-453E-3C5F-7F57-E58994E31132}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "week1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"Windows"
+	]
+}
