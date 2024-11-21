@@ -1,0 +1,18 @@
+# 忽略所有文件
+*
+
+# 不忽略 .gitignore 文件本身
+!.gitignore
+
+# 不忽略 Build 文件夹及其内容
+!Build/
+!Build/**
+
+# 不忽略 Source 文件夹及其内容
+!Source/
+!Source/**
+
+!week1.md
+!README.md
+
+
